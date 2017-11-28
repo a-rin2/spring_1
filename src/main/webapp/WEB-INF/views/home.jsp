@@ -7,10 +7,14 @@
 </head>
 <body>
 <h1>
-	Hello world!  Spring
+	Hello world!  
 </h1>
 
+<img src="./resources/images/Tulips.jpg">
+<P>  The time on the server is ${serverTime}. </P>
 
+<a href="./notice/noticeList?name=notice">Go Notice</a>
+<a href="./qna/qnaList"> Go Qna </a>
 
 <h3> Master</h3>
 
