@@ -15,6 +15,7 @@
 
 <a href="./notice/noticeList?name=notice">Go Notice</a>
 <a href="./qna/qnaList"> Go Qna </a>
+add git
 
 <h3> Master</h3>
 
